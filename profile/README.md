@@ -1,12 +1,16 @@
-## Hi there 👋
+# Kinode has rebranded to [Hyperware](https://github.com/hyperware-ai)
 
-<!--
+The domain "kinode.org" has been seized by a malicious actor. Our project has rebranded to Hyperware and can now be found at [hyperware.ai](https://hyperware.ai).
 
-**Here are some ideas to get you started:**
+## What happened?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+A scammer has taken control of our previous accounts. To protect our community and continue development, we've rebranded to Hyperware and moved to a new domain.
+What should you do?
+
+- Unfollow the former Kinode Twitter account, https://x.com/kinode
+- Leave the Kinode discord, if you are in it
+- Update your bookmarks to hyperware.ai
+- Do not interact with kinode.org - it is not affiliated with our project
+- Follow our official channels for updates
+  - X (formerly Twitter): https://x.com/hyperware_ai
+  - Discord: https://discord.gg/7zTZYrhQwfx
