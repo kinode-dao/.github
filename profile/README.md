@@ -1,6 +1,6 @@
 # Kinode has rebranded to [Hyperware](https://github.com/hyperware-ai)
 
-The domain "kinode.org" has been seized by a malicious actor. Our project has rebranded to Hyperware and can now be found at [hyperware.ai](https://hyperware.ai).
+The domain "kinode.org" and our social accounts have been seized by a malicious actor. Our project has rebranded to Hyperware and can now be found at [hyperware.ai](https://hyperware.ai).
 
 ## What happened?
 
