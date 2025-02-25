@@ -4,8 +4,9 @@ The domain "www.kinode.org" and our social accounts have been seized by an unaut
 
 ## What happened?
 
-A scammer has taken control of our previous accounts. To protect our community and continue development, we've rebranded to Hyperware and moved to a new domain.
-What should you do?
+To protect our community and continue development, we've rebranded to Hyperware and moved to a new domain.
+
+## What should you do?
 
 - Unfollow the former Kinode Twitter account, https://x.com/kinode
 - Leave the Kinode discord, if you are in it
